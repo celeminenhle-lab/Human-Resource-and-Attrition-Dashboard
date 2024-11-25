@@ -1,4 +1,7 @@
 # Human-Resource-and-Attrition-Dashboard
+![45](https://github.com/user-attachments/assets/b841cbcc-afc4-4c74-b092-edc373f34e44)
+![123](https://github.com/user-attachments/assets/c36237af-dd85-4637-8c35-6eaa7858c6f4)
+
 The Objective of the HR Dashboard | Business Problem |Business Requirement
 
 Before diving into data, it’s crucial to align with your organization’s HR goals. Identify the specific questions your dashboard aims to answer. What insights are HR professionals seeking to understand employee attrition?
